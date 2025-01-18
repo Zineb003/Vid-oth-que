@@ -1,0 +1,90 @@
+{
+    "films": [
+        {
+            "title": "The Godfather",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+        },
+        {
+            "title": "The Dark Knight",
+            "genre": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+        },
+        {
+            "title": "Pulp Fiction",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        },
+        {
+            "title": "Forrest Gump",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Civil Rights Movement, and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+        },
+        {
+            "title": "Zenoubty",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the task of implanting an idea into the mind of a CEO."
+        },
+        {
+            "title": "lhub",
+            "genre": [
+                "romance"
+            ],
+            "description": "hubby mohammed"
+        },
+        {
+            "title": "chukr",
+            "genre": [
+                "drame",
+                " romantique",
+                " action"
+            ],
+            "description": "lorem ipsum"
+        },
+        {
+            "title": "test",
+            "genre": [
+                "test"
+            ],
+            "description": "test"
+        },
+        {
+            "title": "test",
+            "genre": [
+                "test"
+            ],
+            "description": "test"
+        },
+        {
+            "title": "Inception",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "description": "A mind-bending thriller."
+        },
+        {
+            "title": "test",
+            "genre": [
+                "test"
+            ],
+            "description": "test"
+        }
+    ]
+}

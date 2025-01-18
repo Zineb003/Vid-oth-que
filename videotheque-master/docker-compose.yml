@@ -1,0 +1,29 @@
+version: '3'
+services:
+  api:
+    build:
+      context: ./API
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./API:/app
+    networks:
+      - my_network
+
+  serveur:
+    build:
+      context: ./SERVEUR
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ./SERVEUR:/app
+    depends_on:
+      - api
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    driver: bridge
